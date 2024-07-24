@@ -1,4 +1,4 @@
-# CGPA Calculator
+# CGPA Calculator in C++
 
 This program calculates a student's Cumulative Grade Point Average (CGPA) based on the grades and credits of the courses taken.
 
